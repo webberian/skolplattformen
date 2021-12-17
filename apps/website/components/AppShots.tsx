@@ -30,7 +30,7 @@ const AppShots = () => {
           width={178}
         />
         <Image
-          alt="Lista med dina barn i Stockholms Stad"
+          alt="Lista med dina barn i Stockholms stad"
           height={376}
           layout="responsive"
           src={screenshotChildren}
